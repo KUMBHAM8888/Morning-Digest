@@ -4,3 +4,5 @@ credentials.json
 __pycache__/
 *.pyc
 .claude/
+yes
+yes.pub
