@@ -2,7 +2,7 @@ name: Morning Digest
 
 on:
   schedule:
-    - cron: "30 1 * * *"  # 7:00 AM IST
+    - cron: "0 11 * * *"  # 7:00 AM EST
   workflow_dispatch:
 
 jobs:
